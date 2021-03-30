@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView Story;
     private Button OptionA;
     private Button OptionB;
+    private Button OptionC;
     private int CheckStoryline;
 
 
